@@ -22,7 +22,7 @@ This project serves as a starting point for a Flutter application. To get starte
 2. **Installation**
    - Clone this repository:
      ```bash
-     git clone https://github.com/yourusername/BlurBar.git
+     git clone https://github.com/Ansh934/BlurBar.git
      ```
    - Navigate to the project directory:
      ```bash
