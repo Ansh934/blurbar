@@ -5,9 +5,9 @@ A Flutter application that demonstrates a dynamic counter with a blur effect. Th
 ## Screenshots
 
 <p float="left">
-  <img src="assets/screenshot1.png" width="200" />
-  <img src="assets/screenshot2.png" width="200" /> 
-  <img src="assets/screenshot3.png" width="200" />
+  <img src="screenshots/Screenshot1.png" width="200" />
+  <img src="screenshots/Screenshot2.jpg" width="200" /> 
+  <img src="screenshots/Screenshot3.jpg" width="200" />
 </p>
 
 ## Getting Started
