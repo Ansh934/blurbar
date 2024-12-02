@@ -2,6 +2,13 @@
 
 A Flutter application that demonstrates a dynamic counter with a blur effect. The app features a clean Material Design interface with a counter that can be adjusted using buttons or a slider. The counter value is limited between 0 and 100, and includes visual feedback through UI blur intensity that changes based on the counter value.
 
+## Screenshots
+
+<p float="left">
+  <img src="assets/screenshot1.png" width="200" />
+  <img src="assets/screenshot2.png" width="200" /> 
+  <img src="assets/screenshot3.png" width="200" />
+</p>
 
 ## Getting Started
 
